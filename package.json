@@ -1,0 +1,12 @@
+{
+  "name": "starter-files",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "commandkit": "^0.0.8",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.3.2",
+    "react": "^18.2.0"
+  }
+}
